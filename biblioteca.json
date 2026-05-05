@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Fundacao",
+        "autor": "Asimov",
+        "lido": false,
+        "historico": []
+    },
+    {
+        "titulo": "Blade Runner",
+        "autor": "Philip K Dick",
+        "lido": false,
+        "historico": []
+    }
+]
