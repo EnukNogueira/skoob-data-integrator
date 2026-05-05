@@ -1,4 +1,4 @@
-# Skoob CLI - Projeto Somativa PUCPR
+# Skoob - Projeto Somativa PUCPR
 
 Aplicação em Python para gerenciamento de biblioteca pessoal de livros no terminal.
 
